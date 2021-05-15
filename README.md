@@ -1,7 +1,10 @@
-A library for Dart developers.
+# dart-cfstream
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+Dart bindings for CloudFlare Stream.
+
+WIP - documentation to come.
+
+A library for Dart developers.
 
 ## Usage
 
@@ -19,4 +22,9 @@ main() {
 
 Please file feature requests and bugs at the [issue tracker][tracker].
 
-[tracker]: http://example.com/issues/replaceme
+[tracker]: https://github.com/vidurb/dart-cfstream/issues
+
+## Credits
+
+Created from templates made available by Stagehand under a BSD-style
+[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
